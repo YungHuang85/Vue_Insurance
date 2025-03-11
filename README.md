@@ -30,7 +30,6 @@
 
 # 專案結構
     總結構: 
-
     MY-VUE-PROJECT
     │── .vscode/                  # VS Code 設定檔
     │── node_modules/             # npm 依賴
@@ -49,7 +48,6 @@
     │── .env                      # 環境變數設定
 
     前端本人負責程式範圍:
-    
     MY-VUE-PROJECT
     │── public/
     │── src/
